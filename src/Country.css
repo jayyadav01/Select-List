@@ -1,0 +1,22 @@
+body
+{
+    background-color: darkslategray;
+}
+.box
+{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+select {
+    background-color: whitesmoke;
+    color: #5a3e2b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    border-radius: 10rem;
+    padding: 1.2rem 3.2rem;
+    font-weight: 700;
+    font-size: 1.8rem;
+    cursor: pointer;
+    margin: 100px 10px 0;
+  }
